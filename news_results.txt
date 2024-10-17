@@ -1,0 +1,56 @@
+--- Keyword: AI ---
+
+1. Title: "AI 때문에 내 능력 무용지물"…한국인 불안 10개국 중 최상위
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.yna.co.kr/view/AKR20241002164300008?input=1195m
+   Date: 1주 전
+
+2. Title: 이번엔 'AI 태블릿'…갤럭시탭S10 시리즈 국내 출시
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.hankyung.com/article/202410032675g
+   Date: 1주 전
+
+3. Title: 오픈AI “기업가치 208조1천억원…8조7천억원 조달”
+   Summary: 오류 발생: Extra data: line 1 column 365 (char 364)
+   Link: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8072846&ref=A
+   Date: 1주 전
+
+4. Title: 오픈 AI, 8.7조원 자금 조달…"기업가치 208조원 평가"
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.newsis.com/view/NISX20241003_0002907560
+   Date: 1주 전
+
+5. Title: 오픈AI, 8조7000억 자금 유치…기업가치 208조원
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://economist.co.kr/article/view/ecn202410030014
+   Date: 1주 전
+
+--- Keyword: LLMOps ---
+
+--- Keyword: AGI ---
+
+1. Title: AGI시대 성큼..로봇이 일자리 @
+   Summary: 요약을 가져올 수 없습니다.
+   Link: http://web.ubc.co.kr/wp/archives/115852
+   Date: 1주 전
+
+2. Title: 드디어 암 정복하나…구글 딥마인드 CEO "AI로 모든 질병 치료"
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.hankyung.com/article/2024100326517
+   Date: 1주 전
+
+3. Title: 사서들의 추천 책, 내 마음을 살찌워 볼까
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.seoul.co.kr/news/life/publication-literature/2024/10/03/20241003021003?wlog_tag3=naver
+   Date: 21면 1단
+
+4. Title: 쓰게 될 것, AGI 시대와 인간의 미래, 잡초들의 전략… 10월 국립중앙도...
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.lecturernews.com/news/articleView.html?idxno=163222
+   Date: 1주 전
+
+5. Title: 세계 최고 AI 기업 6곳 '안전 관리' 등급 발표..."xAI, 5점 만점에 0점으...
+   Summary: 요약을 가져올 수 없습니다.
+   Link: https://www.aitimes.com/news/articleView.html?idxno=163909
+   Date: 1주 전
+
